@@ -1,0 +1,79 @@
+.main{
+    width: 80%;
+    height: 900px;
+    margin: auto;}
+.header{
+    margin: auto;
+    height: 60px;
+    background-color: rgb(253, 252, 252);
+}
+.logo{
+    width: 25%;
+    height: 50px;
+    float: left;
+    padding: 5px;
+    text-align: center;
+}
+.nav_bar{
+    width: 50%;
+    height: 50px;
+    float: right;
+    margin-top: 15px;
+}
+a{
+    padding: 40px;
+    text-decoration: none;
+    color: black;
+}
+.pic{
+    background-color: rgb(253, 252, 252);
+    width: 100%;
+    height: 550px;
+    margin-bottom: 0px;
+}
+.sec_pic >img{
+    width: 100%;
+    height: 550px;
+}
+.mini{
+    width: 100%;
+    background-color: rgb(233, 233, 233);
+    float: left; }
+.description{
+    padding: 10px;
+    width: 70%;
+    float: left;
+    margin: 10px;
+}
+.sec2_pic >img{
+    padding: 30px ;
+    float: right;
+    width: 235px;
+    height: 200px;
+}
+h1{
+    color: rgb(250, 128, 149);
+}
+.footor{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    margin-top: 30px;
+    background-color:rgb(194, 211, 42);
+    margin:  auto;
+    color: white;
+    margin-bottom: 10px;
+}
+.fa-pizza-slice{
+    margin: 10px;
+}
+.fa-sign-language{
+    margin: 10px;
+}
+.fa-heart{
+    margin: 10px;
+}
+.fa-map-marker-alt{
+    margin: 10px;
+}
